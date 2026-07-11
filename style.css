@@ -272,5 +272,12 @@ padding: 15px 0px;
     font-weight: 500;
 }
     /* 3rd section code end */
+    /* Footer code start here */
 
-  
+.footer{
+    color: rgba(255, 255, 255, 0.527);
+    display: flex;
+    justify-content: space-between;
+    padding: 100px 120px;
+    background-color: #0D1B2A;
+}
